@@ -1,3 +1,14 @@
-### Hi there 👋
-
+# Maksym Tymchyshyn
 I'm Maksym from Ukraine, a rising sophomore at the University of Connecticut majoring in Computer Science with a strong passion for coding.
+
+## Skills
++ 🐍 Python
++ 💻 HTML, CSS, JS
++ ⚛️ React
+
+## Contact Me
+- 📫 How to reach me: timchishinmaksim@gmail.com 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/MaksymTymchyshyn)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/maksym-tymchyshyn//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/max.tymchyshyn//)  
+
